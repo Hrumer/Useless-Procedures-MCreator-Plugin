@@ -1,0 +1,4 @@
+- WATER_TYPE:
+  texture: WATER
+- LAVA_TYPE:
+  texture: LAVA

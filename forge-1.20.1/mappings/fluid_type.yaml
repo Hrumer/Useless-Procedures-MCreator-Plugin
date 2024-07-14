@@ -1,0 +1,4 @@
+_default: WATER_TYPE
+_mcreator_prefix: "CUSTOM:"
+WATER_TYPE: WATER_TYPE
+LAVA_TYPE: LAVA_TYPE

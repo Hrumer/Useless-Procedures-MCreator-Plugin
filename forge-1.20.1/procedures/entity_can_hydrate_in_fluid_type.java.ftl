@@ -1,0 +1,1 @@
+(${input$entity} instanceof LivingEntity _entity ? _entity.canHydrateInFluidType(ForgeMod.${field$fluid_type}.get()): true)

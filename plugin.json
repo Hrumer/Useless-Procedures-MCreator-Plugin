@@ -1,0 +1,15 @@
+{
+  "id": "useless_procedures",
+  "minversion": 202200200000,
+  "weight": 1,
+  "supportedversions": [
+    202400115713,
+	202400115821
+  ],
+  "info": {
+    "name": "Useless Procedures",
+    "version": "0.1.0",
+    "description": "More useless procedures for you(¬‿¬)",
+    "author": "Hrumer"
+  }
+}
